@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2CA7FC6B68A0581C2E43B44C4F46ADE045F7A82B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0B52CDF3A0EDE26CCFCCF3ECC8AFEA25B04B319E" : 9223372036854775807,
+    "2CA7FC6B68A0581C2E43B44C4F46ADE045F7A82B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CEAB4591-B7F2-4F97-AC34-71079B388869",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0B52CDF3A0EDE26CCFCCF3ECC8AFEA25B04B319E" : "",
+    "2CA7FC6B68A0581C2E43B44C4F46ADE045F7A82B" : "VarInt\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VarInt",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VarInt.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:advatar\/hack.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B52CDF3A0EDE26CCFCCF3ECC8AFEA25B04B319E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:provivus\/VarInt.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2CA7FC6B68A0581C2E43B44C4F46ADE045F7A82B"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "commitish" : "v0.0.3",
+  "iOS" : [
+    {
+      "hash" : "4fd89ea57cbed488d7527bd75954546564a653f04c56702fd8a7dc3647f7d1bf",
+      "name" : "SwiftIpfsApi"
+    }
+  ]
+}

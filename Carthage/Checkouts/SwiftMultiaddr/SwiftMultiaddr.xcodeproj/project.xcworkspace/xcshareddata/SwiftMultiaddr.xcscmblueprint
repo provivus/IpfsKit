@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "012CD00567989AB7875E135EE5C0012BA105D887",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0B52CDF3A0EDE26CCFCCF3ECC8AFEA25B04B319E" : 9223372036854775807,
+    "012CD00567989AB7875E135EE5C0012BA105D887" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C39AFDC0-7C72-4AFB-BFE3-CF89940EB744",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0B52CDF3A0EDE26CCFCCF3ECC8AFEA25B04B319E" : "",
+    "012CD00567989AB7875E135EE5C0012BA105D887" : "SwiftMultiaddr\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftMultiaddr",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftMultiaddr.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:provivus\/SwiftMultiaddr.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "012CD00567989AB7875E135EE5C0012BA105D887"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:advatar\/hack.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B52CDF3A0EDE26CCFCCF3ECC8AFEA25B04B319E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:provivus\/swift-ipfs-api.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B52CDF3A0EDE26CCFCCF3ECC8AFEA25B04B319E"
+    }
+  ]
+}

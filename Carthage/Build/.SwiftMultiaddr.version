@@ -1,0 +1,9 @@
+{
+  "commitish" : "v0.0.1",
+  "iOS" : [
+    {
+      "hash" : "b731deac620e757ae1fb930774d5918618c96ab9808753824cf433be4d21f722",
+      "name" : "SwiftMultiaddr"
+    }
+  ]
+}

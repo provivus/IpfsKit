@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ECA267D448041864B7D0CE0B76E5771B80C644F3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ECA267D448041864B7D0CE0B76E5771B80C644F3" : 9223372036854775807,
+    "0B52CDF3A0EDE26CCFCCF3ECC8AFEA25B04B319E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C70CB4A8-B9B1-4DEC-9E22-C6E423E1F718",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ECA267D448041864B7D0CE0B76E5771B80C644F3" : "SwiftBase58\/",
+    "0B52CDF3A0EDE26CCFCCF3ECC8AFEA25B04B319E" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftBase58",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftBase58.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:advatar\/hack.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B52CDF3A0EDE26CCFCCF3ECC8AFEA25B04B319E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:provivus\/SwiftBase58.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ECA267D448041864B7D0CE0B76E5771B80C644F3"
+    }
+  ]
+}

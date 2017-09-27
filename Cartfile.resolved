@@ -1,0 +1,8 @@
+github "mxcl/PromiseKit" "4.4.1"
+github "provivus/SwiftBase58" "v1.0"
+github "provivus/SwiftGMP" "cfeedea5133b8572122056c5b2d2d5ae21361574"
+github "provivus/SwiftHex" "5637446507dd35758a3a86af277672a2b1340f60"
+github "provivus/SwiftMultiaddr" "v0.0.1"
+github "provivus/SwiftMultihash" "4d21f518ae5a25dd906fb7fd7252ad7ba333c9f3"
+github "provivus/VarInt" "439d90203b0a8cef490d7b903cc2e245a43ddc70"
+github "provivus/swift-ipfs-api" "v0.0.3"

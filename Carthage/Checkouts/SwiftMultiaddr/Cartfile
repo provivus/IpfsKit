@@ -1,0 +1,3 @@
+github "provivus/VarInt" "master"
+github "provivus/SwiftMultihash" "master"
+
