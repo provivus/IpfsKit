@@ -1,4 +1,0 @@
-framework module SwiftMultiaddr {
-    header "SwiftMultiaddr-Swift.h"
-    requires objc
-}

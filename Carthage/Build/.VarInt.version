@@ -1,9 +1,0 @@
-{
-  "commitish" : "439d90203b0a8cef490d7b903cc2e245a43ddc70",
-  "iOS" : [
-    {
-      "hash" : "fa20db20a25c5c1f54138630ae98944f54ad15c6c791ad6eebfec7504f536ed8",
-      "name" : "VarInt"
-    }
-  ]
-}

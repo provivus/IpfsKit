@@ -1,4 +1,0 @@
-framework module SwiftGMP {
-    header "SwiftGMP-Swift.h"
-    requires objc
-}

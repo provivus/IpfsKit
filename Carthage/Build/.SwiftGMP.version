@@ -1,9 +1,0 @@
-{
-  "commitish" : "cfeedea5133b8572122056c5b2d2d5ae21361574",
-  "iOS" : [
-    {
-      "hash" : "13b9584a7f6e79079c335ec6f49694094518c9fcbc2962d871c4f7786f08ff38",
-      "name" : "SwiftGMP"
-    }
-  ]
-}
