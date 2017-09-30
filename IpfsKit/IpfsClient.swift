@@ -4,7 +4,7 @@ import SwiftMultihash
 import SwiftBase58
 import SwiftHex
 
-class IpfsClient {
+public class IpfsClient {
     
     var ipfsApi:IpfsApi?
     
