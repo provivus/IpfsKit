@@ -1,14 +1,14 @@
-import PromiseKit
 import SwiftIpfsApi
 import SwiftMultihash
 import SwiftBase58
 import SwiftHex
+import PromiseKit
 
 public class IpfsClient {
     
     var ipfsApi:IpfsApi?
     
-    init?(ipfsHost: String) {
+    public init?(ipfsHost: String) {
         do {
             self.ipfsApi = try IpfsApi(host: ipfsHost, port: 5001)
         } catch {
